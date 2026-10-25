@@ -19,8 +19,11 @@ So I now have to run the change directory command and switch from the user direc
 
 <img width="985" height="777" alt="image" src="https://github.com/user-attachments/assets/e19c8ad5-e6c7-4bb7-9b29-adcc069af4f6" />
 
-Once I have successfully switched to the Desktop directory, I can clear the prompt for better clarity, as shown in the screenshot below
+After switching to the Desktop folder, use the clear command to declutter your prompt take a look at the screenshot below for reference
 
 <img width="959" height="768" alt="image" src="https://github.com/user-attachments/assets/f343f0f7-a254-4455-bbbf-ecaa18da4ddb" />
 
+Now, executing the list command once more should reveal the .pem file in the directory
+
+<img width="987" height="363" alt="image" src="https://github.com/user-attachments/assets/fed31b15-9d01-4ab8-bf45-6ecd88417704" />
 
