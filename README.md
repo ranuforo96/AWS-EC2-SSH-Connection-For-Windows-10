@@ -17,10 +17,9 @@ After running the list command, I still won't see my .pem file because it is und
 
 So I now have to run the change directory command and switch from the user directory to the Desktop
 
-Once I have successfully switched to the Desktop directory, I can clear the prompt for better clarity, as shown in the screenshot below
-
 <img width="985" height="777" alt="image" src="https://github.com/user-attachments/assets/e19c8ad5-e6c7-4bb7-9b29-adcc069af4f6" />
 
+Once I have successfully switched to the Desktop directory, I can clear the prompt for better clarity, as shown in the screenshot below
 
 
 
