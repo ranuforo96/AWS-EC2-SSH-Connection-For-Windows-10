@@ -27,3 +27,7 @@ Now, executing the list command once more should reveal the .pem file in the dir
 
 <img width="987" height="363" alt="image" src="https://github.com/user-attachments/assets/fed31b15-9d01-4ab8-bf45-6ecd88417704" />
 
+Before continuing, we need to make sure that Port 22 is open for SSH on the security group of my EC2 instance
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09ca36e1-2c07-4347-9dd0-6e0a0fc2780e" />
+
