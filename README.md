@@ -21,5 +21,6 @@ So I now have to run the change directory command and switch from the user direc
 
 Once I have successfully switched to the Desktop directory, I can clear the prompt for better clarity, as shown in the screenshot below
 
+<img width="959" height="768" alt="image" src="https://github.com/user-attachments/assets/f343f0f7-a254-4455-bbbf-ecaa18da4ddb" />
 
 
