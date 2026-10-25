@@ -31,3 +31,9 @@ Before continuing, we need to make sure that Port 22 is open for SSH on the secu
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09ca36e1-2c07-4347-9dd0-6e0a0fc2780e" />
 
+1
+
+<img width="981" height="771" alt="image" src="https://github.com/user-attachments/assets/483751fb-2551-44aa-a7d5-b320f4f7997c" />
+
+2
+
