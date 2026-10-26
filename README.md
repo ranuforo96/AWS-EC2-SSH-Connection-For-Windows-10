@@ -57,5 +57,14 @@ Find your key, right-click it, and select Properties
 
 <img width="921" height="762" alt="image" src="https://github.com/user-attachments/assets/f8b33989-d19c-41c3-b18b-191b5ae2f4b9" />
 
+Select the Security tab at the top of the pop-up
 
+<img width="489" height="635" alt="image" src="https://github.com/user-attachments/assets/f499fcfb-6eb9-402b-b8ad-5af2aad630de" />
 
+At the bottom of the pop-up, click Advanced to access special permissions and advanced settings
+
+<img width="1059" height="791" alt="image" src="https://github.com/user-attachments/assets/ab607a7b-ec13-4b77-9ced-43f1cac28899" />
+
+As highlighted in blue, this confirms that I am the owner of the file
+
+<img width="1026" height="643" alt="image" src="https://github.com/user-attachments/assets/ec384cfd-ff33-499b-9ba2-488dd30d1499" />
