@@ -45,10 +45,8 @@ Your SSH authentication succeeded, and you are now remotely connected to your Li
 
 <img width="987" height="505" alt="image" src="https://github.com/user-attachments/assets/10b92c40-566d-452a-88a0-1482b4354511" />
 
-5
+To disconnect from your remote AWS server at any time, run "exit" in the terminal. This terminates the SSH session and brings you back to your local command prompt
 
 <img width="975" height="505" alt="image" src="https://github.com/user-attachments/assets/7f04d757-109a-429a-8e7d-23a8a6db71a1" />
-
-6
 
 <img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/4bd08c3b-baf7-4077-9c59-195b3ff07520" />
