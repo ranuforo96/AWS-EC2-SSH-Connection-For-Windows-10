@@ -73,7 +73,10 @@ If a different user is listed as the owner, click Change, search for your user a
 
 <img width="830" height="447" alt="image" src="https://github.com/user-attachments/assets/a2e4419a-f96d-4d46-b0f0-e3cf6a8b0b88" />
 
-To follow the principle of least privilege, remove the SYSTEM and Administrators permission entries so that only your user account has access to the private key but before doingbthis you must disable inheritance 
+To follow the principle of least privilege, remove the SYSTEM and Administrators permission entries so that only your user account has access to the private key, but before doing this, you must disable inheritance 
 
+Click Disable inheritance
+
+![Uploading image.png…]()
 
 
