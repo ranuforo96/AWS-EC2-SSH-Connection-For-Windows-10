@@ -79,4 +79,12 @@ Click Disable inheritance
 
 <img width="1019" height="640" alt="image" src="https://github.com/user-attachments/assets/48cafb09-0a2a-47a1-ad85-6e8bd8c14f10" />
 
+Then select "Remove all inherited permissions from this object". 
+
+<img width="1020" height="637" alt="image" src="https://github.com/user-attachments/assets/f21e8d95-dafd-4645-b85d-9b930b519523" />
+
+Your pop-up should now look like this after the removal:
+
+<img width="1020" height="637" alt="image" src="https://github.com/user-attachments/assets/5796c8bf-3fd5-45a3-9585-c8576fd019ac" />
+
 
