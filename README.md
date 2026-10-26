@@ -50,3 +50,12 @@ To disconnect from your remote AWS server at any time, run "exit" in the termina
 <img width="975" height="505" alt="image" src="https://github.com/user-attachments/assets/7f04d757-109a-429a-8e7d-23a8a6db71a1" />
 
 <img width="975" height="544" alt="image" src="https://github.com/user-attachments/assets/4bd08c3b-baf7-4077-9c59-195b3ff07520" />
+
+If a permission error occurs during execution, follow these troubleshooting steps below:
+
+Find your key, right-click it, and select Properties
+
+<img width="921" height="762" alt="image" src="https://github.com/user-attachments/assets/f8b33989-d19c-41c3-b18b-191b5ae2f4b9" />
+
+
+
