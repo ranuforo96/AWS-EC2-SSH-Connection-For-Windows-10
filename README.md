@@ -35,11 +35,9 @@ Then, to connect to my AWS EC2 instance using PowerShell, I will use the followi
 
 <img width="981" height="771" alt="image" src="https://github.com/user-attachments/assets/483751fb-2551-44aa-a7d5-b320f4f7997c" />
 
-2
+Type yes and press Enter to continue 
 
 <img width="984" height="172" alt="image" src="https://github.com/user-attachments/assets/b90fdc27-5c36-4e50-a3f0-bcbff2913768" />
-
-3
 
 <img width="982" height="206" alt="image" src="https://github.com/user-attachments/assets/d18663bf-9e87-4cd9-baaa-f66e1eebbdb7" />
 
