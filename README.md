@@ -93,6 +93,6 @@ Now I need to add a principal. I'll do this by right-clicking Add at the bottom 
 
 Right-click "Select a principal" and search for your user account, then click Check Names, which will execute my principal name, which I can quickly verify, and select OK
 
-<img width="1222" height="727" alt="image" src="https://github.com/user-attachments/assets/8e087a96-2744-47af-be3e-66751879794f" />
+<img width="653" height="387" alt="image" src="https://github.com/user-attachments/assets/33dc9ce2-647e-4aa2-adef-8c3f0de9767b" />
 
 
