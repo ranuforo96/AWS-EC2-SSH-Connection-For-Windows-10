@@ -68,3 +68,8 @@ At the bottom of the pop-up, click Advanced to access special permissions and ad
 As highlighted in blue, this confirms that I am the owner of the file
 
 <img width="1026" height="643" alt="image" src="https://github.com/user-attachments/assets/ec384cfd-ff33-499b-9ba2-488dd30d1499" />
+
+If a different user is listed as the owner, click Change, search for your user account, and assign yourself as the new owner
+
+<img width="830" height="447" alt="image" src="https://github.com/user-attachments/assets/a2e4419a-f96d-4d46-b0f0-e3cf6a8b0b88" />
+
