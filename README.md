@@ -89,7 +89,7 @@ Your pop-up should now look like this after the removal:
 
 Now I need to add a principal. I'll do this by right-clicking Add at the bottom of the display on of the pop-up
 
-<img width="1222" height="726" alt="image" src="https://github.com/user-attachments/assets/118313cd-4b4b-49f3-807c-988da176b766" />
+<img width="653" height="387" alt="image" src="https://github.com/user-attachments/assets/55d57118-cc5b-41ca-adae-415afd41b957" />
 
 Right-click "Select a principal" and search for your user account, then click Check Names, which will execute my principal name, which I can quickly verify, and select OK
 
