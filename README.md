@@ -110,3 +110,7 @@ Lastly, if I go back to the Properties of the .pem file and click Security again
 Running the SSH command in PowerShell now connects to the remote AWS server without issues
 
 <img width="986" height="747" alt="image" src="https://github.com/user-attachments/assets/514cdcff-b3eb-4723-9766-781fc8093d95" />
+
+You can also execute this SSH command in the Command Prompt without issue as well
+
+![Uploading image.png…]()
