@@ -77,6 +77,6 @@ To follow the principle of least privilege, remove the SYSTEM and Administrators
 
 Click Disable inheritance
 
-![Uploading image.png…]()
+<img width="1019" height="640" alt="image" src="https://github.com/user-attachments/assets/48cafb09-0a2a-47a1-ad85-6e8bd8c14f10" />
 
 
