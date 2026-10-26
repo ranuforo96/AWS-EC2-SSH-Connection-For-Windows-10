@@ -99,6 +99,14 @@ Next, I will need to give myself Full control of this .pem file and press OK
 
 <img width="1215" height="722" alt="image" src="https://github.com/user-attachments/assets/3d8b0e3e-203f-4295-be0b-ff99b43b9ee6" />
 
-Now I am the owner and the principal of the .pem file
+Now press OK to confirm the changes to become the owner and the principal of the .pem file
 
 <img width="1023" height="641" alt="image" src="https://github.com/user-attachments/assets/3aa07e7b-18e3-47b3-a095-542109c4f874" />
+
+Lastly, if I go back to the Properties of the .pem file and click Security again, it will show me as the owner, as well as my Full control permissions
+
+<img width="484" height="627" alt="image" src="https://github.com/user-attachments/assets/74c63d66-1959-4981-9c44-e0d532a7f15a" />
+
+Running the SSH command in PowerShell now connects to the remote AWS server without issues
+
+<img width="986" height="747" alt="image" src="https://github.com/user-attachments/assets/514cdcff-b3eb-4723-9766-781fc8093d95" />
