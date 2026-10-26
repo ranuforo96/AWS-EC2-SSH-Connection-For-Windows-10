@@ -41,7 +41,7 @@ Type yes and press Enter to continue
 
 <img width="982" height="206" alt="image" src="https://github.com/user-attachments/assets/d18663bf-9e87-4cd9-baaa-f66e1eebbdb7" />
 
-4
+Your SSH authentication succeeded, and you are now remotely connected to your Linux server
 
 <img width="987" height="505" alt="image" src="https://github.com/user-attachments/assets/10b92c40-566d-452a-88a0-1482b4354511" />
 
